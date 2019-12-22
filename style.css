@@ -9,3 +9,9 @@
 .thought1{
     font-size: 20px;
 }
+
+.thought2{
+    background-color: red;
+    font-family: fantasy;
+    line-height: 40px;
+}
