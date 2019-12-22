@@ -2,16 +2,23 @@
  * Google Fonts Demo
  **/
  body{
- font-family: 'Shadows Into Light', cursive;
+ font-family: Georgia, 'Times New Roman', Times, serif;
  }
 /* Add in the Google Fonts of your choice */
 
 .thought1{
     font-size: 20px;
+    margin: 30px;
 }
 
 .thought2{
     background-color: red;
     font-family: fantasy;
+    margin: 30px;
+}
+
+.thought3{
     line-height: 40px;
+    font-family: 'Parisienne', cursive;
+
 }
